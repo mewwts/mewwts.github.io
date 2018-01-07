@@ -1,3 +1,0 @@
-# mewwts.github.io
-
-Help
