@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mewwts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mewwts.xyz
+  * I am mewwts (https://keybase.io/mewwts) on keybase.
+  * I have a public key ASDHfzaTH7V6zMtkeJhngbgwkNmF3pN-8HoZ1mN1dt4hxQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013f28ff4d6c651db5e6a61281345b10364e31af3d3ec4e95825fe9e64b1f4e7ab0a",
+      "host": "keybase.io",
+      "kid": "0120c77f36931fb57acccb6478986781b83090d985de937ef07a19d6637576de21c50a",
+      "uid": "5b56ba5e93fcfe460085b5bbc3f50c19",
+      "username": "mewwts"
+    },
+    "merkle_root": {
+      "ctime": 1549806646,
+      "hash": "64f232ace18e6c71aa032c894b4779ec041d1f89589d2f9d2f640f47269e5aa651c07af6bb586b9d2a585ef34506ac46b30f66a4e6877c332ce7adfd8ce5bd74",
+      "hash_meta": "c08b330e3e143b283a77ef21a57ae5a0f63eb018116746d56e64a74501d1f26d",
+      "seqno": 4736524
+    },
+    "service": {
+      "entropy": "1LJ3q1f5IJ7OySjagmuiBMA3",
+      "hostname": "mewwts.xyz",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1549806688,
+  "expire_in": 504576000,
+  "prev": "45f0a7f252d8abf0e0cd0d7614c32c14d3812345de638d226267cac77ef8bf48",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx382kx+1eszLZHiYZ4G4MJDZhd6TfvB6GdZjdXbeIcUKp3BheWxvYWTESpcCLsQgRfCn8lLYq/DgzQ12FMMsFNOBI0XeY40iYmfKx374v0jEIJDGC6APYje0j9VP+xea1oLokRL3yLd2HP+q7HxCCdC5AgHCo3NpZ8RAfVg+pH4BexzUyzgfV9WWXJsXnYcFs31SaPHp3SWcUuEB8ZPyU4v3rKtAJ/eQCXTbZRST3yvo0vlg4K8sDvM2BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKFt9j6mf9K8wOsyhqglMf02uEluTY8BoS1CEEPtYqlWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mewwts
+
+==================================================================
